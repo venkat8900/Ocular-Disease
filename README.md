@@ -10,3 +10,5 @@ Data direcctory:  diabetic data -->
                          moderate_dr, 
                          severe_dr, 
                          proliferative_dr
+                         
+TODO: Add documented codes for federated training
