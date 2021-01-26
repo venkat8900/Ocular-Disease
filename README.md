@@ -4,11 +4,6 @@ Diabetic data collected from: https://www.kaggle.com/c/diabetic-retinopathy-dete
 
 Save diabetic data: extract_diabetic.ipynb
 
-Data direcctory:  diabetic data -->
-                         normal, 
-                         mild_dr, 
-                         moderate_dr, 
-                         severe_dr, 
-                         proliferative_dr
+Dataset categories: Diabetic, age related macular degenration, cataract, normal
                          
 TODO: Add documented codes for federated training
