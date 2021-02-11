@@ -6,4 +6,4 @@ Save diabetic data: extract_diabetic.ipynb
 
 Dataset categories: Diabetic, age related macular degenration, cataract, normal
                          
-TODO: Add documented codes for federated training
+TODO: Modify the network architecture in federated learning. Try to implement with FEDML library
